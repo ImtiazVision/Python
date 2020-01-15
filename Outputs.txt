@@ -1,0 +1,4 @@
+This program converts Celsius temperatures to Fahrenheit.
+
+Please enter Celsius temperature: 5
+The temperature is 41.0 degrees Fahrenheit.
